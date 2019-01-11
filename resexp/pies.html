@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="pies.css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<body>
+<div id="inner-body" align="center">
+    <div class="pageheader">
+        <div id ="agetxt"></div>
+        <div id="yeartxt"></div>
+    </div>
+    <div class="sub-header">
+        <div>Resources: (£K) </div>
+        <div>Expenses: (£K) </div>
+    </div>
+    <div align="left" id ="resource-stats" class="stats-table">
+        <div class="stats-section">
+            <div style="background-color:rgb(56,86,151)" class="legend-key"></div>
+            <p>Human Capital:</p>
+            <p id="human-capital-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(131,136,140)" class="legend-key"></div>
+            <p>Assets:</p>
+            <p id="assets-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(0,0,60)" class="legend-key"></div>
+            <p>Public Transfers:</p>
+            <p id="public-transfers-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(34,91,106)" class="legend-key"></div>
+            <p>Private Transfers:</p>
+            <p id="private-transfers-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(134, 205, 220)" class="legend-key"></div>
+            <p>Bequests Received:</p>
+            <p id="bequests-received-amount">?</p>
+        </div>
+        <div class="stats-section total-stats">
+            <p>Total:</p>
+            <p id="total-resources-amount">?</p>
+        </div>
+    </div>
+    <div class="chart">
+    </div>
+    <div align="left" id ="expense-stats" class="stats-table">
+        <div class="stats-section">
+            <div style="background-color:rgb(101,146,150)" class="legend-key"></div>
+            <p>Public Consumption:</p>
+            <p id="public-consumption-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(56,86,151)" class="legend-key"></div>
+            <p>Private Consumption:</p>
+            <p id="private-consumption-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(180,180,180)" class="legend-key"></div>
+            <p>Public Transfers:</p>
+            <p id="public-transfers-made-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(70,70,90)" class="legend-key"></div>
+            <p>Private Transfers:</p>
+            <p id="private-transfers-made-amount">?</p>
+        </div>
+        <div class="stats-section">
+            <div style="background-color:rgb(150,180,60)" class="legend-key"></div>
+            <p>Bequests Made:</p>
+            <p id="bequests-made-amount">?</p>
+        </div>
+        <div class="stats-section total-stats">
+            <p>Total:</p>
+            <p id="total-expenses-amount">?</p>
+        </div>
+    </div>
+    <div>
+    <img id="playbt" src="play.jpg" width="82" height="82">
+    </div>
+    <div id="rangebuttons"></div>
+    <div class="slider-info" align="center"><div class="slider-info">Age</div><div class="slider-info" style="margin-top:10px;">(Year of Birth)</div></div>
+<div id="testarea"></div>
+<div id ='testarea2'></div>
+</div>
+</body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="pies.js">
+</script>

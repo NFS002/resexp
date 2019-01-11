@@ -1,0 +1,56 @@
+birthYear,age,resourceType,resourceAmount
+<1922,90+,Human Capital,1
+<1922,90+,Assets,225
+<1922,90+,Public Transfers,100
+<1922,90+,Private Transfers,8
+<1922,90+,Bequests Received,0
+1923-1932,80-89,Human Capital,1
+1923-1932,80-89,Assets,261
+1923-1932,80-89,Public Transfers,151
+1923-1932,80-89,Private Transfers,12
+1923-1932,80-89,Bequests Received,0
+1933-1942,70-79,Human Capital,3
+1933-1942,70-79,Assets,330
+1933-1942,70-79,Public Transfers,212
+1933-1942,70-79,Private Transfers,24
+1933-1942,70-79,Bequests Received,0
+1943-1952,60-69,Human Capital,37
+1943-1952,60-69,Assets,401
+1943-1952,60-69,Public Transfers,252
+1943-1952,60-69,Private Transfers,51
+1943-1952,60-69,Bequests Received,0
+1953-1962,50-59,Human Capital,185
+1953-1962,50-59,Assets,357
+1953-1962,50-59,Public Transfers,253
+1953-1962,50-59,Private Transfers,61
+1953-1962,50-59,Bequests Received,0
+1963-1972,40-49,Human Capital,372
+1963-1972,40-49,Assets,204
+1963-1972,40-49,Public Transfers,255
+1963-1972,40-49,Private Transfers,5
+1963-1972,40-49,Bequests Received,64
+1973-1982,30-39,Human Capital,507
+1973-1982,30-39,Assets,82
+1973-1982,30-39,Public Transfers,268
+1973-1982,30-39,Private Transfers,67
+1973-1982,30-39,Bequests Received,31
+1983-1992,20-29,Human Capital,578
+1983-1992,20-29,Assets,18
+1983-1992,20-29,Public Transfers,276
+1983-1992,20-29,Private Transfers,69
+1983-1992,20-29,Bequests Received,75
+1993-2002,10-19,Human Capital,522
+1993-2002,10-19,Assets,0
+1993-2002,10-19,Public Transfers,290
+1993-2002,10-19,Private Transfers,118
+1993-2002,10-19,Bequests Received,85
+2003-2012,0-9,Human Capital,378
+2003-2012,0-9,Assets,0
+2003-2012,0-9,Public Transfers,258
+2003-2012,0-9,Private Transfers,167
+2003-2012,0-9,Bequests Received,60
+>2013,Unborn,Human Capital,314
+>2013,Unborn,Assets,0
+>2013,Unborn,Public Transfers,235
+>2013,Unborn,Private Transfers,170
+>2013,Unborn,Bequests Received,131
