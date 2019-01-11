@@ -1,0 +1,122 @@
+birthYear,age,exchange,label,value
+<1922,90,out,Public Consumption,27
+<1922,90,out,Private Consumption,25
+<1922,90,out,Public Transfers,10
+<1922,90,out,Private Transfers,5
+<1922,90,out,Bequests Made,99
+<1922,90,Total,Total,165
+1923-1932,80,out,Public Consumption,210
+1923-1932,80,out,Private Consumption,216
+1923-1932,80,out,Public Transfers,87
+1923-1932,80,out,Private Transfers,42
+1923-1932,80,out,Bequests Made,492
+1923-1932,80,Total,Total,1047
+1933-1942,70,out,Public Consumption,497
+1933-1942,70,out,Private Consumption,663
+1933-1942,70,out,Public Transfers,279
+1933-1942,70,out,Private Transfers,136
+1933-1942,70,out,Bequests Made,996
+1933-1942,70,Total,Total,2572
+1943-1952,60,out,Public Consumption,859
+1943-1952,60,out,Private Consumption,1559
+1943-1952,60,out,Public Transfers,737
+1943-1952,60,out,Private Transfers,344
+1943-1952,60,out,Bequests Made,1648
+1943-1952,60,Total,Total,5146
+1953-1962,50,out,Public Consumption,1008
+1953-1962,50,out,Private Consumption,2313
+1953-1962,50,out,Public Transfers,1370
+1953-1962,50,out,Private Transfers,538
+1953-1962,50,out,Bequests Made,1547
+1953-1962,50,Total,Total,6777
+1963-1972,40,out,Public Consumption,1186
+1963-1972,40,out,Private Consumption,3156
+1963-1972,40,out,Public Transfers,2298
+1963-1972,40,out,Private Transfers,1079
+1963-1972,40,out,Bequests Made,569
+1963-1972,40,Total,Total,8288
+1973-1982,30,out,Public Consumption,1044
+1973-1982,30,out,Private Consumption,3105
+1973-1982,30,out,Public Transfers,2386
+1973-1982,30,out,Private Transfers,1372
+1973-1982,30,out,Bequests Made,0
+1973-1982,30,Total,Total,7908
+1983-1992,20,out,Public Consumption,1121
+1983-1992,20,out,Private Consumption,3540
+1983-1992,20,out,Public Transfers,2616
+1983-1992,20,out,Private Transfers,1504
+1983-1992,20,out,Bequests Made,0
+1983-1992,20,Total,Total,8782
+1993-2002,10,out,Public Consumption,1194
+1993-2002,10,out,Private Consumption,3217
+1993-2002,10,out,Public Transfers,2084
+1993-2002,10,out,Private Transfers,1114
+1993-2002,10,out,Bequests Made,0
+1993-2002,10,Total,Total,7609
+2003-2012,0,out,Public Consumption,1244
+2003-2012,0,out,Private Consumption,2882
+2003-2012,0,out,Public Transfers,1652
+2003-2012,0,out,Private Transfers,820
+2003-2012,0,out,Bequests Made,0
+2003-2012,0,Total,Total,6598
+>2013,Unborn,out,Public Consumption,3980
+>2013,Unborn,out,Private Consumption,8664
+>2013,Unborn,out,Public Transfers,4738
+>2013,Unborn,out,Private Transfers,2265
+>2013,Unborn,out,Bequests Made,19648
+>2013,Unborn,Total,Total,769
+<1922,90,in,Human Capital,0
+<1922,90,in,Assets,116
+<1922,90,in,Public Transfers,45
+<1922,90,in,Private Transfers,3
+<1922,90,in,Bequests Received,0
+1923-1932,80,in,Human Capital,3
+1923-1932,80,in,Assets,642
+1923-1932,80,in,Public Transfers,372
+1923-1932,80,in,Private Transfers,30
+1923-1932,80,in,Bequests Received,0
+1933-1942,70,in,Human Capital,14
+1933-1942,70,in,Assets,1492
+1933-1942,70,in,Public Transfers,959
+1933-1942,70,in,Private Transfers,108
+1933-1942,70,in,Bequests Received,0
+1943-1952,60,in,Human Capital,256
+1943-1952,60,in,Assets,2788
+1943-1952,60,in,Public Transfers,1755
+1943-1952,60,in,Private Transfers,348
+1943-1952,60,in,Bequests Received,0
+1953-1962,50,in,Human Capital,1460
+1953-1962,50,in,Assets,2831
+1953-1962,50,in,Public Transfers,2002
+1953-1962,50,in,Private Transfers,483
+1953-1962,50,in,Bequests Received,0
+1963-1972,40,in,Human Capital,3444
+1963-1972,40,in,Assets,1884
+1963-1972,40,in,Public Transfers,2365
+1963-1972,40,in,Private Transfers,595
+1963-1972,40,in,Bequests Received,0
+1973-1982,30,in,Human Capital,4197
+1973-1982,30,in,Assets,680
+1973-1982,30,in,Public Transfers,2215
+1973-1982,30,in,Private Transfers,558
+1973-1982,30,in,Bequests Received,258
+1983-1992,20,in,Human Capital,4996
+1983-1992,20,in,Assets,156
+1983-1992,20,in,Public Transfers,2385
+1983-1992,20,in,Private Transfers,600
+1983-1992,20,in,Bequests Received,645
+1993-2002,10,in,Human Capital,3915
+1993-2002,10,in,Assets,2
+1993-2002,10,in,Public Transfers,2171
+1993-2002,10,in,Private Transfers,883
+1993-2002,10,in,Bequests Received,638
+2003-2012,0,in,Human Capital,2889
+2003-2012,0,in,Assets,0
+2003-2012,0,in,Public Transfers,1986
+2003-2012,0,in,Private Transfers,1278
+2003-2012,0,in,Bequests Received,463
+>2013,Unborn,in,Human Capital,8035
+>2013,Unborn,in,Assets,0
+>2013,Unborn,in,Public Transfers,5994
+>2013,Unborn,in,Private Transfers,4333
+>2013,Unborn,in,Bequests Received,3346

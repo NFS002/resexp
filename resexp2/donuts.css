@@ -1,0 +1,92 @@
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 100%;
+  height: 700px;
+  position: relative;
+}
+
+.legend-section {
+    text-align:left;
+ }
+
+svg {
+	width: 1400px;
+	height: 100%;
+
+}
+
+i {
+   margin-right:10px;
+  }
+
+.legend-container > div {
+    display:inline-block;
+    width:40%;
+    position:absolute;
+}
+
+path.slice{
+	stroke-width:2px;
+}
+
+.ui-slider-tick-mark{
+    display:inline-block;
+    width:2px;
+    background:black;
+    height:16px;
+    position:absolute;
+    top:-4px;
+}
+
+.labelValue
+{
+	font-size: 60%;
+	opacity: .5;
+
+}
+
+#title {
+  font-size: 56px;
+  letter-spacing: -2px;
+  font-weight: bold;
+  fill: #999;
+}
+
+.pieTitle,.totals {
+  font-size: 40px;
+  letter-spacing: -2px;
+  font-weight: bold;
+  fill: rgb(56,86,151);
+}
+
+#slider {
+/* help for touch devices and slider usability */
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+
+	height: 500px;
+	left: 10px;
+	top: 30px;
+	position: absolute;
+}
+
+.toolTip {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: -3px 3px 15px #888888;
+    color: black;
+    font: 12px sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+text {
+  font: 12px sans-serif;
+}
