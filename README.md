@@ -1,6 +1,4 @@
-_* Updated 25th July 2025_
-
-The pages on imperial.ac.uk appears to have now been moved or taken down.
+_* Updated 25th July 2025. The pages on imperial.ac.uk appear to have now been moved or taken down._
 
 
 # Assessing The Generational Contract
