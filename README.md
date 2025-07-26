@@ -1,3 +1,8 @@
+_* Updated 25th July 2025_
+
+The pages on imperial.ac.uk appears to have now been moved or taken down.
+
+
 # Assessing The Generational Contract
 
 These are a series of three data visualisations I completed as a project for Imperial College Business School. My task was to create some data visuaisations that illustrated the findings of a research project ( https://www.imperial.ac.uk/business-school/research/finance/our-research/assessing-the-generational-contract/project-research/) focusing on the relationship and distribution of wealth in successive generations. `One of the key themes to come out this research being that the next generation will have a larger social care bill and generally more expenditures than the previous ones. It is not necessarilly true that te national GDP will fall, but since people are generally living longer as time goes on, the old age dependency ratio is always increasing. One way govermental policy is trying to combat this is by raisin the state retirement age gradually. 
